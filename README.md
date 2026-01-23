@@ -114,3 +114,6 @@ The primary goals of this project are to:
 
 This Hospital Analytics Dashboard provides a comprehensive, interactive view of patient behavior and hospital operations.
 It empowers healthcare stakeholders to optimize performance, enhance patient care, and improve financial outcomes through data-driven insights.
+
+----------
+# ⭐ If you find this project useful, consider giving it a star on GitHub!
